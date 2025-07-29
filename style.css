@@ -32,6 +32,9 @@ body{
 .purple{
   background-color: #819ff9;
 }
-.flash{
+.gameflash{
   background-color: white;
 } 
+.userflash{
+  background-color: rgba(0, 128, 0, 0.534);
+}
